@@ -1,0 +1,28 @@
+{
+    "jargonList": [
+        "Absolute performance guarantee not found",
+        "Interpreting abstract data type...",
+        "Finding Ackermann's function",
+        "Constructing active data structure",
+        "Climbing antichain",
+        "Transversing array",
+        "Augmenting path...",
+        "Backtracking...",
+        "Applying Benford's law",
+        "Sorting binary heap",
+        "Calculating block addressing index...",
+        "Applying Bradford's law",
+        "Stretching Cactus stack",
+        "Paramatizing concave function...",
+        "Solving cutting stock problem...",
+        "Performing dichotomic search...",
+        "Planting digital search tree",
+        "Overcoming doomsday rule",
+        "Coloring edge",
+        "Unraveling Euler cycle",
+        "Stretching fast fourier transform",
+        "Performing Fibonacci search",
+        "Performing gnome sort",
+        "Applying greedy heuristic"
+    ]
+}
